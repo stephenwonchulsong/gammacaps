@@ -12,5 +12,12 @@
 | **Saddle Tilted**         | A tilted version of the Saddle keycap with one cut.                                          |
 | **Normal/Saddle Homing**  | Features two small bumps to help determine the home position.                                |
 
+![](./images/recommended.png)
+
+## Some images
+![](./images/gamma.jpg)
+![](./images/henki.jpg)
+![](./images/henki2.jpg)
+
 ## Contacts:
 Telegram: [@grygree](https://t.me/grygree)
