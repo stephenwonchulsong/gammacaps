@@ -15,7 +15,7 @@
 ![](./images/recommended.png)
 
 ## Some images
-![](./images/gamma.jpg)
+![](./images/gamma.JPG)
 ![](./images/henki.jpg)
 ![](./images/henki2.jpg)
 
